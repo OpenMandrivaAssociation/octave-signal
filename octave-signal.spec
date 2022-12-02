@@ -7,7 +7,7 @@ Release:	1
 Source0:	https://downloads.sourceforge.net/octave/%{octpkg}-%{version}.tar.gz
 License:	GPLv3+ and Public Domain
 Group:		Sciences/Mathematics
-Url:		https://octave.sourceforge.io/%{octpkg}/
+Url:		https://packages.octave.org/%{octpkg}/
 
 BuildRequires:	octave-devel >= 3.8.0
 BuildRequires:	octave-control >= 2.4.5
@@ -20,8 +20,6 @@ Requires(postun): octave
 
 %description
 Signal processing tools, including filtering, windowing and display functions.
-
-This package is part of community Octave-Forge collection.
 
 %files
 %license COPYING
