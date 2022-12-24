@@ -2,7 +2,7 @@
 
 Summary:	Signal processing tools for Octave
 Name:		octave-%{octpkg}
-Version:	1.4.2
+Version:	1.4.3
 Release:	1
 Source0:	https://downloads.sourceforge.net/octave/%{octpkg}-%{version}.tar.gz
 License:	GPLv3+ and Public Domain
