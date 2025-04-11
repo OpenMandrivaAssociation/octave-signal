@@ -3,7 +3,7 @@
 Summary:	Signal processing tools for Octave
 Name:		octave-signal
 Version:	1.4.6
-Release:	1
+Release:	2
 License:	GPLv3+ and Public Domain
 Group:		Sciences/Mathematics
 Url:		https://packages.octave.org/signal/
